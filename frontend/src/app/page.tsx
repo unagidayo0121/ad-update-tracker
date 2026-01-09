@@ -1,6 +1,5 @@
 import updatesData from '@/data/updates.json';
 import { UpdateItem } from '@/lib/types';
-import { FilterBar } from '@/components/FilterBar'; // We will create this or inline it
 import DashboardClient from './DashboardClient'; // Client component for interactivity
 
 // Force static generation
